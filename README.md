@@ -2,6 +2,7 @@
 Mobile App - GPS tracking
 
 Kotloin - programming language
+
 Android app for gps tracking
 
 import android.Manifest                                     
