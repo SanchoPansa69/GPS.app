@@ -5,7 +5,7 @@ Kotloin - programming language
 
 Android app for gps tracking
 
-import android.Manifest                                     
+import android.Manifest                               библиотека, която предоставя достъп до манифестния файл на Android, който съдържа разрешенията на приложението.
 import android.content.pm.PackageManager                    
 import android.location.Location                          
 import android.os.Bundle                                
